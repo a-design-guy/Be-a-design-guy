@@ -1,14 +1,17 @@
 # Be-a-design-guy
  Make your own designs online
  
-###Images
+### Images
 
 What it should look like after installation 
 
 ![](https://github.com/a-design-guy/Be-a-design-guy/blob/master/assets/sample.jpg?raw=true)
 
-> Follow your heart.
+> Adesignguy.co.
 
-![](https://pandao.github.io/editor.md/examples/images/8.jpg)
+[Reference link][id/name] 
+
+[id/name]: http://link-url/
+
 
 > Vashisth Bhushan
