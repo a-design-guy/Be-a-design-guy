@@ -83,7 +83,7 @@
 			<div class="store-container adesignguy_content adesignguy-theme" data-step="2" style="display: none;">
 				<h1><?php _e('adesignguy theme', 'adesignguy'); ?></h1>
 				<p class="store-setup">
-					<?php _e('We offer a Wordpress theme, which we customize and create for adesignguy. It looks the same with our', 'adesignguy'); ?> <a href="https://demo.adesignguy.com/?select-demo=frontend" target=_blank><?php _e('live demo', 'adesignguy'); ?> &rarr;</a>
+					<?php _e('Integrate this with Wordpress/ your own react Template to make it seamless in terms of payment procedure', 'adesignguy'); ?> <a href="https://demo.adesignguy.com/?select-demo=frontend" target=_blank><?php _e('live demo', 'adesignguy'); ?> &rarr;</a>
 				</p>
 				<ul class="adesignguy-wizard-services in-cart">
 					<li class="adesignguy-wizard-service-item" style="width: 100%;">
