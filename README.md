@@ -11,6 +11,9 @@
 
 > Syncs up with vendor portal at WooCommerce and no hassle in payment can Pay via Credit/Debit Card / UPI / PayTM 
 
+> This is backed by KingComposer React Bundle
+
+> Free to use for anyone who wants to design mockups online rather than having Photoshop
  
 ### Images
 
